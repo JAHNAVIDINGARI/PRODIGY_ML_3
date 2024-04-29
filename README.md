@@ -68,4 +68,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspiration and guidance from various online tutorials and resources.
 ```
 
-Make sure to replace `your_username` with your actual GitHub username. You can also customize and expand upon this template to include more details about your project.
